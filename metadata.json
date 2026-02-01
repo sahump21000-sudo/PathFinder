@@ -1,0 +1,5 @@
+{
+  "name": "CareerCompass",
+  "description": "A smart AI-powered career guidance platform that helps youth discover government and private career paths, hidden opportunities, and real-world application data using Google Search grounding.",
+  "requestFramePermissions": []
+}
